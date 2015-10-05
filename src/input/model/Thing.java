@@ -5,7 +5,7 @@ public class Thing
 	private String name;
 	private int age;
 	private double weight;
-	private int doesnNotMatter;
+	private int doesnNotMatter; //Look I made a change
 	
 	/**
 	 * 
